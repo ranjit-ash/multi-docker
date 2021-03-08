@@ -20,3 +20,4 @@ after_success:
   -docker push ranjit-ash/multi-nginx
   -docker push ranjit-ash/multi-server
   -docker push ranjit-ash/multi-worker
+
